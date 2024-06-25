@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Misrarkhan
+- 👋 Hi, I’m @Israr afridi
 - 👀 I’m interested in Web Designinig and Development 
 - 🌱 I’m currently learning React Express Next Node and Mongo
 - 💞️ I’m looking to collaborate on React+ sanity.io project 
