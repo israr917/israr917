@@ -1,4 +1,4 @@
-- Hi, I’m @Israr afridi here Web Designer and Developer currently learning React Next Node Mongo & Tailwindcss
+- @Israr afridi here Web Designer and Developer currently learning React Next Node Mongo & Tailwindcss
   having previous experience with HTML5 , CSS3 , JS and Bootstrap SQL and PHP. 
 - Reach me at @israrafridi759@gmail.com
   
